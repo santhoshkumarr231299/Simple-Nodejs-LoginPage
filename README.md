@@ -1,17 +1,23 @@
 # Simple Nodejs - Login Page
 
-# node version
+**Node Version:**
 18.18.2
 
-# First Step
+**Step 1:**
+git clone https://github.com/santhoshkumarr231299/Simple-Nodejs-LoginPage.git
+
+**Step 2:**
+cd Simple-Nodejs-LoginPage/
+
+**Step 3:**
 npm install
 
-# Second Step
+**Step 4:**
 configure the Database credentials in real.js
 
-# Third Step
+**Step 5:**
 npm start
 
-# Final
+**Step 6:**
 Server is ready to go
 
