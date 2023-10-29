@@ -1,0 +1,20 @@
+{
+  "name": "simple-login-page-using-nodejs",
+  "version": "1.0.0",
+  "description": "This page is designed by Real Star Agency",
+  "main": "real.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/santhoshkumarr231299/Simple-Nodejs-LoginPage.git"
+},
+  "scripts": {
+    "start": "node real.js"
+  },
+  "author": "Santhosh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
