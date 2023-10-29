@@ -59,5 +59,5 @@ app.post("/login", (req, res) => {
 
 app.listen(PORT, function(err) {
     if (err) console.log("Error in starting the server");
-    console.log('Server has Started');
+    console.log(`Server has Started in http://localhost:${PORT}`);
 });
